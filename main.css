@@ -1,4 +1,5 @@
 body {
   background-image: url("pwb.jpg");
    background-repeat: no-repeat;
+   background-size: auto;
 }
